@@ -1,0 +1,7 @@
+django == 4.2
+numpy == 2.3.0
+scipy == 1.7.0
+fastapi-agent-router== 0.3.1
+matplotlib==3.99.0
+six1.16.0
+requewsts ==2.32.0
